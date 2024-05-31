@@ -5,6 +5,7 @@
 
 <!--Start Intro-->               
 <p align="left">I am passionate about creating effective solutions that address complex problems. Additionally, I am committed to continuous learning to stay at the forefront of the latest technologies.</p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🎓 Web Application Developer
 - 💻 Experienced IT Technician
@@ -12,7 +13,6 @@
 - ❤ Passionate about contributing to dev community 
 - 🌐 Visit my [Portfolio](https://ventu00.github.io/vportfo/) for more details about me
 <!--End Intro-->
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 ---
 <br />
 
