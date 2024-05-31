@@ -12,8 +12,6 @@
 - ❤ Passionate about contributing to dev community 
 - 🌐 Visit my [Portfolio](https://ventu00.github.io/vportfo/) for more details about me
 <!--End Intro-->
-<br>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 ---
 <br />
