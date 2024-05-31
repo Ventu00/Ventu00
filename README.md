@@ -20,14 +20,14 @@
 <br>
 <br>
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="600px"  src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,postgres,git,vscode,docker,postman,linux,laravel,vue,bootstrap,mysql,jquery&perline=10"  />
 </p>
 <br />
 
 <!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/%C3%A0lex-ventura-vilalta-491607271/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
