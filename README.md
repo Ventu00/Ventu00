@@ -1,7 +1,8 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Àlex Ventura 
-*Developer / IT Specialist*
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+*Developer / IT Specialist*
 
 <br /> 
 
@@ -16,6 +17,7 @@
 <!--End Intro-->
 ---
 <br />
+<br>
 <br>
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
