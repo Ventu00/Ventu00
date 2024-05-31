@@ -1,6 +1,6 @@
 <!--Header Name-->
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">ɪ'ᴍ Àlex Ventura 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400px" alt="adam-pw" />
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="550px" alt="adam-pw" />
 
 *Developer / IT Specialist*
 
