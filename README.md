@@ -3,19 +3,17 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Àlex Ventura 
-*Digital Craftsman (Developer / IT Specialist)*
+*Developer / IT Specialist*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API, and Data Visualization.</p>
+<p align="left">I am passionate about creating effective solutions that address complex problems. Additionally, I am committed to continuous learning to stay at the forefront of the latest technologies.</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that every day is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/yourprofile).
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to/yourprofile).
-- ✍ I write technical blogs, you can visit my blog site at [DEV](https://dev.to/yourprofile).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://yourusername.github.io) for more details about me.
+- 🎓 Web Application Developer
+- 💻 Experienced IT Technician
+- 🌱 I believe every day is a learning opportunity
+- ❤ Passionate about contributing to dev community 
+- 🌐 Visit my [Portfolio](https://ventu00.github.io/vportfo/) for more details about me
 <!--End Intro-->
 
 ---
@@ -24,7 +22,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,postgres,git,vscode,docker,postman,linux&perline=10"  />
 </p>
 <br />
 
