@@ -19,7 +19,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,postgres,git,vscode,docker,postman,linux,laravel&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,postgres,git,vscode,docker,postman,linux,laravel,vue,bootstrap&perline=10"  />
 </p>
 <br />
 
