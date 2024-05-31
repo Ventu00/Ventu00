@@ -2,10 +2,10 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Àlex Ventura 
 *Developer / IT Specialist*
 <br /> 
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 <!--Start Intro-->               
 <p align="left">I am passionate about creating effective solutions that address complex problems. Additionally, I am committed to continuous learning to stay at the forefront of the latest technologies.</p>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🎓 Web Application Developer
 - 💻 Experienced IT Technician
