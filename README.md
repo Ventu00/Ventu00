@@ -1,6 +1,3 @@
-<!--Banner-->
-![Àlex Ventura Banner Image](https://github.com/yourusername/yourrepository/blob/main/banner.png)
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Àlex Ventura 
 *Developer / IT Specialist*
@@ -29,22 +26,13 @@
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank">
+ <a href="https://www.linkedin.com/in/%C3%A0lex-ventura-vilalta-491607271/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:youremail@example.com" target="_blank">
+<a href="alexventvv@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=youremail@example.com mail style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.instagram.com/yourinstagramprofile" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=yourinstagramprofile Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/yourtwitterprofile" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="yourtwitterprofile Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
 
 <!--Footer--> 
 <p align="center">
